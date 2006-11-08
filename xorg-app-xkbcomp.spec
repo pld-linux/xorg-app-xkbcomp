@@ -1,12 +1,12 @@
 Summary:	xkbcomp application
 Summary(pl):	Aplikacja xkbcomp
 Name:		xorg-app-xkbcomp
-Version:	1.0.2
+Version:	1.0.3
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/app/xkbcomp-%{version}.tar.bz2
-# Source0-md5:	8b22a5e6d780ec70bf98d31cdbd65658
+# Source0-md5:	2fbcae1323c266edf5b6c61751f2e343
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
