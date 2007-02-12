@@ -1,5 +1,5 @@
 Summary:	xkbcomp application
-Summary(pl):	Aplikacja xkbcomp
+Summary(pl.UTF-8):   Aplikacja xkbcomp
 Name:		xorg-app-xkbcomp
 Version:	1.0.3
 Release:	1
@@ -18,7 +18,7 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 xkbcomp application.
 
-%description -l pl
+%description -l pl.UTF-8
 Aplikacja xkbcomp.
 
 %prep
