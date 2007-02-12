@@ -1,5 +1,5 @@
 Summary:	xkbcomp application
-Summary(pl.UTF-8):   Aplikacja xkbcomp
+Summary(pl.UTF-8):	Aplikacja xkbcomp
 Name:		xorg-app-xkbcomp
 Version:	1.0.3
 Release:	1
