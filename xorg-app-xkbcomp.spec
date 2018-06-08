@@ -1,12 +1,12 @@
 Summary:	xkbcomp application - compiling XKB keyboard description
 Summary(pl.UTF-8):	Aplikacja xkbcomp do kompilacji opisów klawiatury XKB
 Name:		xorg-app-xkbcomp
-Version:	1.4.1
+Version:	1.4.2
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	https://xorg.freedesktop.org/releases/individual/app/xkbcomp-%{version}.tar.bz2
-# Source0-md5:	07df9790d30f9a369d20a418af784de0
+# Source0-md5:	12610df19df2af3797f2c130ee2bce97
 URL:		https://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.60
 BuildRequires:	automake
